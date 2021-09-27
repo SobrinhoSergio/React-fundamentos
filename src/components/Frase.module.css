@@ -1,0 +1,14 @@
+/*.frase-container{ não poderá ser usado }*/
+
+/*Só Camel Case ou Underline*/
+
+.fraseContainer{ 
+    background-color: red;
+    padding: 10px 0;
+}
+
+
+.fraseContent{
+    background-color: yellow;
+    padding: 5px 0;
+}
