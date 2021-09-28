@@ -6,6 +6,7 @@ import Pessoa from './components/Pessoa';
 import List from './components/List';
 import Evento from './components/Evento';
 import Form from './components/Form';
+import Condicional from './components/Condicional';
 
 function App() {
 
@@ -50,10 +51,11 @@ function App() {
 
       <List/>
 
-      <Evento numero="1"/>
-      <Evento numero="2"/>
+      <Evento/>
 
       <Form/>
+
+      <Condicional/>
 
     </div>
   
